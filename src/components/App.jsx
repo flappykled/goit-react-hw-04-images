@@ -9,7 +9,7 @@ import { Button } from './Button/Button';
 import { Modal } from './Modal/Modal';
 import { Loader } from './Loader/Loader';
 
-const API_KEY = '32386885-8dbf1bc36075d10a6eaf5580b';
+const API_KEY = '32302124-e6dfdbd2009eaa3575731b612';
 const BASE_URL = 'https://pixabay.com/api/';
 
 export const App = () => {
